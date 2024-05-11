@@ -17,7 +17,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 API_ID = os.getenv("API_ID")
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("TOKEN")
-DEVS = [5690711835, 6312693124]
+DEVS = [6848223695, 6968763387]
 
 ALL_GROUPS = []
 TOTAL_USERS = []
