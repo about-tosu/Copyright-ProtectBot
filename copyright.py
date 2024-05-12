@@ -46,10 +46,10 @@ START_MESSAGE = """
 
  **Work:** I'll Delete all medias of your group in every 1 hour ➰
  
- **Process?:** Simply add me in your group and promote as admin with delete messages right!
+ **Process?:** Simply add me in your group and promote as admin with delete messages right owner- @itz_tusarr !
 """
 
-BUTTON = [[InlineKeyboardButton("+ Add me in group +", url="http://t.me/AntiCopy_Robot?startgroup=s&admin=delete_messages")]]
+BUTTON = [[InlineKeyboardButton("+ Add me in group +", url="http://t.me/Nothing_x_copyright_bot?startgroup=s&admin=delete_messages")]]
 
 bot = Client('bot', api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
