@@ -52,7 +52,6 @@ START_MESSAGE = """
 """
 
 BUTTON = [[InlineKeyboardButton("+ Add me in group +", url="http://t.me/Nothing_x_copyright_bot?startgroup=s&admin=delete_messages")]]
-BUTTON = [[InlineKeyboardButton("+ Developer +", url="http://t.me/itz_tusarr")]]
 
 bot = Client('bot', api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
